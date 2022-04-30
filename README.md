@@ -1,2 +1,4 @@
 # Udacity courses for Code and reports
-test for version control
+update the bikeshare.py
+creat a .gitgnore with .csv file
+create a documentation
